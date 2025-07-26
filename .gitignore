@@ -1,25 +1,2 @@
-# Node modules
 node_modules/
-
-# Logs
-logs/
-*.log
-npm-debug.log*
-
-# Environment variables
 .env
-
-# OS files
-.DS_Store
-Thumbs.db
-
-# IDE files
-.vscode/
-.idea/
-
-# Build outputs
-dist/
-build/
-
-# Optional: Coverage reports (if you're using testing tools)
-coverage/
